@@ -568,3 +568,15 @@ Topologias em Cisco Packet Tracer (ficheiros `.pkt`, abrir no Packet Tracer):
 
 - Ambiente de laboratório e cenários fictícios. Os nomes das empresas (POST, ALGARFIVESTAR), dos departamentos e dos utilizadores são de teste.
 - As imagens são capturas das topologias e das configurações em Cisco Packet Tracer e diagramas dos documentos; os PDFs ficam como prova completa.
+
+
+---
+
+## 👩‍💻 Autoria
+
+**Alexandra Carneiro**  
+*Graduanda em Engenharia de Software | Técnica Especialista em Cibersegurança & Redes*
+
+- **GitHub:** [@alexandra-carneiro](https://github.com/alexandra-carneiro)  
+- **LinkedIn:** [carneiro-alexandra](https://www.linkedin.com/in/carneiro-alexandra/)  
+- **Portfólio:** [alexandracarneiro.tech](https://alexandracarneiro.tech/)
